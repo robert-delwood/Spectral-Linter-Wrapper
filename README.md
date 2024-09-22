@@ -13,7 +13,7 @@ The typical installation is for the **Spectral CLI client**.
 However, this requires that **npm** and **node.js** be installed prior to spectral-cli.
 The page also has an all-in-one installer **Executable Binaries** for a single step installation.
 
-1. To run the compiled application download and uncompress **Lint_Wrapper.zip**.
+1. Download and uncompress **Lint_Wrapper.zip**.
 The only item in this file is a **Lint_Wrapper.exe**.
 
 1. Launch the application.
@@ -21,7 +21,7 @@ The only item in this file is a **Lint_Wrapper.exe**.
 The following controls are available. To run the application, follow these steps:
 1. Select the target OpenFile file using the **Open target file** (#1).
 1. Select the spectral rules file using **Open ruleset file** (#2).
-2. This will likely named like **spectral.yaml** or **.spectral.yaml**.
+   This will likely named like **spectral.yaml** or **.spectral.yaml**.
 1. Select **Evaluate target file** (#3). This starts the linting process.
    A command window may display briefly.
    In a moment, the bottom portion of the screen completes (#4)
