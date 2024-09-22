@@ -1,4 +1,4 @@
-# spectral-linter-wrapper
+# Spectral-Linter-Wrapper
 A sample wrapper for the Spectral linter
 
 This application is a wrapper for the Spectral linter.
