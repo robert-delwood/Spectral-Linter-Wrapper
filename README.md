@@ -1,12 +1,17 @@
 # Spectral-Linter-Wrapper
-A sample wrapper for the Spectral linter
+This is an application wrapper for the Spectral linter.
 
-This application is a wrapper for the Spectral linter.
-That is, it's a graphical interface for the Spectral linter, which is normally a command line operation.
+That means it's a Windows application. It can be used to run Spectral lint.
+Instead of displaying the results in an awkward and hard to read command window, the results are redirected to the application.
+The application uses an intuitive layout.
+The results can be filtered to show results for one, specific error or warning type.
+In other words, it makes it much easier to read.
 
-## Running the standalone application
-I suggest running this application first to see what the application is intended to look like and how it runs.
+To run this application, Spectral lint must be already installed.
+As a test, consider running Spectral lint first, just to see if it's working.
+If it is, then run the application.
 
+## Running the application
 1. Before running the application, Spectral linter must be already installed and be able to run succcessfully.
 For full instructions, see https://docs.stoplight.io/docs/spectral/b8391e051b7d8-installation.
 The typical installation is for the **Spectral CLI client**. 
