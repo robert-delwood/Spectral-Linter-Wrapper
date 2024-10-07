@@ -7,9 +7,7 @@ The application uses an intuitive layout.
 The results can be filtered to show results for one, specific error or warning type.
 In other words, it makes it much easier to read.
 
-To run this application, Spectral lint must be already installed.
-As a test, consider running Spectral lint first, just to see if it's working.
-If it is, then run the application.
+<img src="/support/application_screenshot.JPG" alt="Resized Image" style="width: 50%; height: 50%; border: 5px solid black;">
 
 ## Running the application
 1. Before running the application, Spectral linter must be already installed and be able to run succcessfully.
@@ -24,12 +22,12 @@ The only item in this file is a **Lint_Wrapper.exe**.
 1. Launch the application.
 
 The following controls are available. To run the application, follow these steps:
-1. Select the target OpenFile file using the **Open target file** (#1).
-1. Select the spectral rules file using **Open ruleset file** (#2).
+1. Select the target OpenFile file using the **Open target file**.
+1. Select the spectral rules file using **Open ruleset file**.
    This will likely named like **spectral.yaml** or **.spectral.yaml**.
-1. Select **Evaluate target file** (#3). This starts the linting process.
+1. Select **Evaluate target file**. This starts the linting process.
    A command window may display briefly.
-   In a moment, the bottom portion of the screen completes (#4)
+   In a moment, the bottom portion of the screen completes.
 
 The bottom portion displays a list of controls for groups of messages, or to list individual messages.
 Those messages display to the right, showing a list of individual instances for each message.
